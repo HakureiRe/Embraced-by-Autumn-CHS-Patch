@@ -1,5 +1,5 @@
 # Embraced-by-Autumn-CHS-Patch
-《Embraced by Autumn》的简体中文汉化补丁
+《Embraced by Autumn》简体中文汉化补丁
 
 【适用游戏】
   - Embraced By Autumn (Steam 版 / 原版 1.0)
