@@ -1,0 +1,927 @@
+﻿
+translate None strings:
+
+    old "Self-voicing disabled."
+    new "自行朗读已禁用。"
+
+    old "Clipboard voicing enabled. "
+    new "已启用剪贴板朗读。 "
+
+    old "Self-voicing enabled. "
+    new "自行朗读已启用。"
+
+    old "bar"
+    new "滑动条"
+
+    old "selected"
+    new "已选择"
+
+    old "viewport"
+    new "视口"
+
+    old "horizontal scroll"
+    new "水平滚动"
+
+    old "vertical scroll"
+    new "垂直滚动"
+
+    old "activate"
+    new "激活"
+
+    old "deactivate"
+    new "停用"
+
+    old "increase"
+    new "增加"
+
+    old "decrease"
+    new "减少"
+
+    old "Font Override"
+    new "字体覆盖"
+
+    old "Default"
+    new "默认"
+
+    old "DejaVu Sans"
+    new "DejaVu Sans"
+
+    old "Opendyslexic"
+    new "Opendyslexic"
+
+    old "Text Size Scaling"
+    new "文字大小缩放"
+
+    old "Reset"
+    new "重置"
+
+    old "Line Spacing Scaling"
+    new "行距缩放"
+
+    old "Self-Voicing"
+    new "自我朗读"
+
+    old "Off"
+    new "关闭"
+
+    old "Text-to-speech"
+    new "文字转语音"
+
+    old "Clipboard"
+    new "剪贴板"
+
+    old "Debug"
+    new "调试"
+
+    old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    new "此菜单中的选项旨在改善无障碍体验。它们可能不适用于所有游戏，且某些选项组合可能使游戏无法正常运行。这不是游戏或引擎的问题。更改字体时，为获得最佳效果，请尽量保持文字大小与原来相同。"
+
+    old "Return"
+    new "返回"
+
+    old "{#weekday}Monday"
+    new "{#weekday}星期一{/weekday}"
+
+    old "{#weekday}Tuesday"
+    new "{#weekday}星期二{/weekday}"
+
+    old "{#weekday}Wednesday"
+    new "{#weekday}星期三{/weekday}"
+
+    old "{#weekday}Thursday"
+    new "{#weekday}星期四{/weekday}"
+
+    old "{#weekday}Friday"
+    new "{#weekday}星期五{/weekday}"
+
+    old "{#weekday}Saturday"
+    new "{#weekday}星期六{/weekday}"
+
+    old "{#weekday}Sunday"
+    new "{#weekday}星期日{/weekday}"
+
+    old "{#weekday_short}Mon"
+    new "{#weekday_short}周一{/weekday_short}"
+
+    old "{#weekday_short}Tue"
+    new "{#weekday_short}周二{/weekday_short}"
+
+    old "{#weekday_short}Wed"
+    new "{#weekday_short}周三{/weekday_short}"
+
+    old "{#weekday_short}Thu"
+    new "{#weekday_short}周四{/weekday_short}"
+
+    old "{#weekday_short}Fri"
+    new "{#weekday_short}周五{/weekday_short}"
+
+    old "{#weekday_short}Sat"
+    new "{#weekday_short}周六{/weekday_short}"
+
+    old "{#weekday_short}Sun"
+    new "{#weekday_short}周日{/weekday_short}"
+
+    old "{#month}January"
+    new "{#month}一月{/month}"
+
+    old "{#month}February"
+    new "{#month}二月{/month}"
+
+    old "{#month}March"
+    new "{#month}三月{/month}"
+
+    old "{#month}April"
+    new "{#month}三月{/month}"
+
+    old "{#month}May"
+    new "{#month}五月{/month}"
+
+    old "{#month}June"
+    new "{#month}六月{/month}"
+
+    old "{#month}July"
+    new "{#month}七月{/month}"
+
+    old "{#month}August"
+    new "{#month}八月{/month}"
+
+    old "{#month}September"
+    new "{#month}九月{/month}"
+
+    old "{#month}October"
+    new "{#month}十月{/month}"
+
+    old "{#month}November"
+    new "{#month}十一月{/month}"
+
+    old "{#month}December"
+    new "{#month}十二月{/month}"
+
+    old "{#month_short}Jan"
+    new "{#month_short}1月{/month_short}"
+
+    old "{#month_short}Feb"
+    new "{#month_short}2月{/month_short}"
+
+    old "{#month_short}Mar"
+    new "{#month_short}3月{/month_short}"
+
+    old "{#month_short}Apr"
+    new "{#month_short}4月{/month_short}"
+
+    old "{#month_short}May"
+    new "{#month_short}5月{/month_short}"
+
+    old "{#month_short}Jun"
+    new "{#month_short}6月{/month_short}"
+
+    old "{#month_short}Jul"
+    new "{#month_short}7月{/month_short}"
+
+    old "{#month_short}Aug"
+    new "{#month_short}8月{/month_short}"
+
+    old "{#month_short}Sep"
+    new "{#month_short}9月{/month_short}"
+
+    old "{#month_short}Oct"
+    new "{#month_short}10月{/month_short}"
+
+    old "{#month_short}Nov"
+    new "{#month_short}11月{/month_short}"
+
+    old "{#month_short}Dec"
+    new "{#month_short}12月{/month_short}"
+
+    old "%b %d, %H:%M"
+    new "%m月%d日 %H:%M"
+
+    old "Save slot %s: [text]"
+    new "存档槽 %s：[text]"
+
+    old "Load slot %s: [text]"
+    new "加载存档 %s：[text]"
+
+    old "Delete slot [text]"
+    new "删除存档槽 [text]"
+
+    old "File page auto"
+    new "自动存档页"
+
+    old "File page quick"
+    new "快速存档页"
+
+    old "File page [text]"
+    new "存档页 [text]"
+
+    old "Page {}"
+    new "第 {} 页"
+
+    old "Automatic saves"
+    new "自动存档"
+
+    old "Quick saves"
+    new "快速存档"
+
+    old "Next file page."
+    new "下一页存档页。"
+
+    old "Previous file page."
+    new "上一存档页。"
+
+    old "Quick save complete."
+    new "快速保存完成。"
+
+    old "Quick save."
+    new "快速存档。"
+
+    old "Quick load."
+    new "快速读取。"
+
+    old "Language [text]"
+    new "语言 [text]"
+
+    old "The interactive director is not enabled here."
+    new "此处未启用交互式导演。"
+
+    old "⬆"
+    new "完成"
+
+    old "⬇"
+    new "(语句)"
+
+    old "Done"
+    new "(标签)"
+
+    old "(statement)"
+    new "(属性)"
+
+    old "(tag)"
+    new "(变换)"
+
+    old "(attributes)"
+    new "(转场)"
+
+    old "(transform)"
+    new "(声道)"
+
+    old "(transition)"
+    new "(文件名)"
+
+    old "(channel)"
+    new "更改"
+
+    old "(filename)"
+    new "添加"
+
+    old "Change"
+    new "取消"
+
+    old "Add"
+    new "移除"
+
+    old "Cancel"
+    new "语句："
+
+    old "Remove"
+    new "标签："
+
+    old "Statement:"
+    new "属性："
+
+    old "Tag:"
+    new "变换："
+
+    old "Attributes:"
+    new "置于："
+
+    old "Transforms:"
+    new "转场："
+
+    old "Behind:"
+    new "声道："
+
+    old "Transition:"
+    new "音频文件名："
+
+    old "Channel:"
+    new "你确定吗？"
+
+    old "Audio Filename:"
+    new "确定要删除此存档吗？"
+
+    old "Are you sure?"
+    new "你确定要覆盖当前存档吗？"
+
+    old "Are you sure you want to delete this save?"
+    new "读取存档将丢失未保存的进度。\\n确定要继续吗？"
+
+    old "Are you sure you want to overwrite your save?"
+    new "你确定要退出吗？"
+
+    old "Loading will lose unsaved progress.\\nAre you sure you want to do this?"
+    new "确定要返回主菜单吗？\\n这将丢失未保存的进度。"
+
+    old "Are you sure you want to quit?"
+    new "你确定要结束回放吗？"
+
+    old "Are you sure you want to return to the main menu?\\nThis will lose unsaved progress."
+    new "确定要开始跳过吗？"
+
+    old "Are you sure you want to end the replay?"
+    new "你确定要跳到下一个选项吗？"
+
+    old "Are you sure you want to begin skipping?"
+    new "确定要跳过未读对白直到下一个选项吗？"
+
+    old "Are you sure you want to skip to the next choice?"
+    new "无法将截图保存为 %s。"
+
+    old "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "已将截图保存为 %s。"
+
+    old "Failed to save screenshot as %s."
+    new "跳过模式"
+
+    old "Saved screenshot as %s."
+    new "本程序包含根据多项许可证授权的自由软件，包括 MIT 许可证和 GNU 较宽松公共许可证。完整的软件列表（含全部源代码链接）可在这里找到。"
+
+    old "Skip Mode"
+    new "显示"
+
+    old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    new "转场"
+
+    old "display"
+    new "跳过转场"
+
+    old "transitions"
+    new "视频精灵"
+
+    old "skip transitions"
+    new "显示空窗口"
+
+    old "video sprites"
+    new "文字速度"
+
+    old "show empty window"
+    new "摇杆"
+
+    old "text speed"
+    new "手柄..."
+
+    old "joystick"
+    new "跳过"
+
+    old "joystick..."
+    new "跳过未读 [text]"
+
+    old "skip"
+    new "跳过未读文本"
+
+    old "skip unseen [text]"
+    new "开始跳过"
+
+    old "skip unseen text"
+    new "选项之后"
+
+    old "begin skipping"
+    new "选择后跳过"
+
+    old "after choices"
+    new "自动前进时间"
+
+    old "skip after choices"
+    new "自动前进"
+
+    old "auto-forward time"
+    new "自动前进"
+
+    old "auto-forward"
+    new "点击后自动前进"
+
+    old "Auto forward"
+    new "自动移动"
+
+    old "auto-forward after click"
+    new "等待语音"
+
+    old "automatic move"
+    new "语音保持"
+
+    old "wait for voice"
+    new "自行朗读"
+
+    old "voice sustain"
+    new "剪贴板朗读"
+
+    old "self voicing"
+    new "调试朗读"
+
+    old "clipboard voicing"
+    new "强调音频"
+
+    old "debug voicing"
+    new "回滚侧"
+
+    old "emphasize audio"
+    new "GL 省电模式"
+
+    old "rollback side"
+    new "GL 帧率"
+
+    old "gl powersave"
+    new "GL 撕裂"
+
+    old "gl framerate"
+    new "字体变换"
+
+    old "gl tearing"
+    new "字体大小"
+
+    old "font transform"
+    new "字体行距"
+
+    old "font size"
+    new "音乐音量"
+
+    old "font line spacing"
+    new "音效音量"
+
+    old "music volume"
+    new "语音音量"
+
+    old "sound volume"
+    new "音乐静音"
+
+    old "voice volume"
+    new "音效静音"
+
+    old "mute music"
+    new "语音静音"
+
+    old "mute sound"
+    new "全部静音"
+
+    old "mute voice"
+    new "剪贴板朗读已启用。按 'shift+C' 关闭。"
+
+    old "mute all"
+    new "自我朗读会说 \\\"[renpy.display.tts.last]\\\"。按 'alt+shift+V' 关闭。"
+
+    old "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "自行朗读已启用。按 'v' 关闭。"
+
+    old "Self-voicing would say \\\"[renpy.display.tts.last]\\\". Press 'alt+shift+V' to disable."
+    new "空存档位。"
+
+    old "Self-voicing enabled. Press 'v' to disable."
+    new "上一页"
+
+    old "Empty Slot."
+    new "下一个"
+
+    old "Previous"
+    new "手柄映射"
+
+    old "Next"
+    new "开发者菜单"
+
+    old "Joystick Mapping"
+    new "交互式导演 (D)"
+
+    old "Developer Menu"
+    new "重新载入游戏 (Shift+R)"
+
+    old "Interactive Director (D)"
+    new "控制台 (Shift+O)"
+
+    old "Reload Game (Shift+R)"
+    new "变量查看器"
+
+    old "Console (Shift+O)"
+    new "图像位置选择器"
+
+    old "Variable Viewer"
+    new "文件名列表"
+
+    old "Image Location Picker"
+    new "显示图像加载日志 (F4)"
+
+    old "Filename List"
+    new "隐藏图像加载日志 (F4)"
+
+    old "Show Image Load Log (F4)"
+    new "图像属性"
+
+    old "Hide Image Load Log (F4)"
+    new "[name] [attributes]（已隐藏）"
+
+    old "Image Attributes"
+    new "[name] [attributes]"
+
+    old "[name] [attributes] (hidden)"
+    new "没有可检查的内容。"
+
+    old "[name] [attributes]"
+    new "隐藏已删除"
+
+    old "Nothing to inspect."
+    new "显示已删除"
+
+    old "Hide deleted"
+    new "返回开发者菜单"
+
+    old "Show deleted"
+    new "矩形：%r"
+
+    old "Return to the developer menu"
+    new "鼠标位置：%r"
+
+    old "Rectangle: %r"
+    new "右键单击或按 Esc 退出。"
+
+    old "Mouse position: %r"
+    new "矩形已复制到剪贴板。"
+
+    old "Right-click or escape to quit."
+    new "位置已复制到剪贴板。"
+
+    old "Rectangle copied to clipboard."
+    new "输入以筛选："
+
+    old "Position copied to clipboard."
+    new "纹理：[tex_count]（[tex_size_mb:.1f] MB）"
+
+    old "Type to filter: "
+    new "图像缓存：[cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+
+    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    new "✔ "
+
+    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "✘ "
+
+    old "✔ "
+    new "\\n{color=#cfc}✔ 已预测图像（正常）{/color}\\n{color=#fcc}✘ 未预测图像（异常）{/color}\\n{color=#fff}拖动以移动。{/color}"
+
+    old "✘ "
+    new "可显示对象检查器"
+
+    old "\\n{color=#cfc}✔ predicted image (good){/color}\\n{color=#fcc}✘ unpredicted image (bad){/color}\\n{color=#fff}Drag to move.{/color}"
+    new "大小"
+
+    old "Displayable Inspector"
+    new "样式"
+
+    old "Size"
+    new "位置"
+
+    old "Style"
+    new "正在检查 [displayable_name!q] 的样式"
+
+    old "Location"
+    new "可显示对象："
+
+    old "Inspecting Styles of [displayable_name!q]"
+    new "        (没有属性影响该可显示对象)"
+
+    old "displayable:"
+    new "        （默认属性已省略）"
+
+    old "        (no properties affect the displayable)"
+    new "<repr() 失败>"
+
+    old "        (default properties omitted)"
+    new "正在连接 App Store\\n请稍候…"
+
+    old "<repr() failed>"
+    new "移动设备不支持 Ren'Py 更新程序。"
+
+    old "a"
+    new "正在模拟错误。"
+
+    old "q"
+    new "此项目不支持更新，或更新状态文件已被删除。"
+
+    old "Contacting App Store\\nPlease Wait..."
+    new "此账户没有执行更新的权限。"
+
+    old "The Ren'Py Updater is not supported on mobile devices."
+    new "此账户无权写入更新日志。"
+
+    old "An error is being simulated."
+    new "无法验证更新签名。"
+
+    old "Either this project does not support updating, or the update status file was deleted."
+    new "更新文件未下载。"
+
+    old "This account does not have permission to perform an update."
+    new "更新文件摘要不正确——文件可能已损坏。"
+
+    old "This account does not have permission to write the update log."
+    new "解包 {} 时，出现未知类型 {}。"
+
+    old "Could not verify update signature."
+    new "更新程序"
+
+    old "The update file was not downloaded."
+    new "发生错误："
+
+    old "The update file does not have the correct digest - it may have been corrupted."
+    new "正在检查更新。"
+
+    old "While unpacking {}, unknown type {}."
+    new "本程序已是最新版本。"
+
+    old "Updater"
+    new "[u.version] 可用。要安装吗？"
+
+    old "An error has occured:"
+    new "正在准备下载更新。"
+
+    old "Checking for updates."
+    new "正在下载更新。"
+
+    old "This program is up to date."
+    new "正在解包更新。"
+
+    old "[u.version] is available. Do you want to install it?"
+    new "正在完成。"
+
+    old "Preparing to download the updates."
+    new "更新已安装。程序将重新启动。"
+
+    old "Downloading the updates."
+    new "更新已安装。"
+
+    old "Unpacking the updates."
+    new "更新已取消。"
+
+    old "Finishing up."
+    new "继续"
+
+    old "The updates have been installed. The program will restart."
+    new "全屏"
+
+    old "The updates have been installed."
+    new "图像 [index] / [count] 已锁定。"
+
+    old "The updates were cancelled."
+    new "上一张"
+
+    old "Proceed"
+    new "下一个"
+
+    old "Fullscreen"
+    new "幻灯片"
+
+    old "Image [index] of [count] locked."
+    new "返回"
+
+    old "prev"
+    new "渲染器"
+
+    old "next"
+    new "自动选择"
+
+    old "slideshow"
+    new "强制使用 Angle/DirectX 渲染器"
+
+    old "return"
+    new "强制使用 OpenGL 渲染器"
+
+    old "Renderer"
+    new "强制使用软件渲染器"
+
+    old "Automatically Choose"
+    new "NPOT"
+
+    old "Force Angle/DirectX Renderer"
+    new "启用"
+
+    old "Force OpenGL Renderer"
+    new "禁用"
+
+    old "Force Software Renderer"
+    new "游戏手柄"
+
+    old "NPOT"
+    new "校准"
+
+    old "Enable"
+    new "省电"
+
+    old "Disable"
+    new "帧率"
+
+    old "Gamepad"
+    new "屏幕"
+
+    old "Calibrate"
+    new "60"
+
+    old "Powersave"
+    new "30"
+
+    old "Framerate"
+    new "撕裂"
+
+    old "Screen"
+    new "更改将在下次运行本程序时生效。"
+
+    old "60"
+    new "退出"
+
+    old "30"
+    new "性能警告"
+
+    old "Tearing"
+    new "此电脑正在使用软件渲染。"
+
+    old "Changes will take effect the next time this program is run."
+    new "此计算机未使用着色器。"
+
+    old "Quit"
+    new "此电脑显示图形速度缓慢。"
+
+    old "Performance Warning"
+    new "此计算机在显示图形时出现问题：[problem]。"
+
+    old "This computer is using software rendering."
+    new "其显卡驱动可能已过时或无法正常工作，这会导致图形显示缓慢或异常。更新 DirectX 可以解决此问题。"
+
+    old "This computer is not using shaders."
+    new "其图形驱动程序可能已过时或无法正常工作。这可能导致图形显示缓慢或错误。"
+
+    old "This computer is displaying graphics slowly."
+    new "更新 DirectX"
+
+    old "This computer has a problem displaying graphics: [problem]."
+    new "继续，再次显示此警告"
+
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+    new "继续，不再显示此警告"
+
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+    new "正在更新 DirectX。"
+
+    old "Update DirectX"
+    new "DirectX Web 安装程序已启动，它可能会在任务栏中最小化运行。请按照提示安装 DirectX。"
+
+    old "Continue, Show this warning again"
+    new "{b}注意：{/b} Microsoft 的 DirectX Web 安装程序默认会安装 Bing 工具栏。如果不需要此工具栏，请取消选中相应复选框。"
+
+    old "Continue, Don't show warning again"
+    new "安装完成后，请点击下方以重启本程序。"
+
+    old "Updating DirectX."
+    new "重启"
+
+    old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+    new "选择要校准的游戏手柄"
+
+    old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+    new "没有可用的游戏手柄"
+
+    old "When setup finishes, please click below to restart this program."
+    new "正在校准 [name]（[i]/[total]）"
+
+    old "Restart"
+    new "按下或移动 [control!r] [kind]。"
+
+    old "Select Gamepad to Calibrate"
+    new "跳过 (A)"
+
+    old "No Gamepads Available"
+    new "返回 (B)"
+
+    old "Calibrating [name] ([i]/[total])"
+    new "打开"
+
+    old "Press or move the [control!r] [kind]."
+    new "在文本编辑器中打开 traceback.txt 文件。"
+
+    old "Skip (A)"
+    new "复制 BBCode"
+
+    old "Back (B)"
+    new "将 traceback.txt 文件以 BBcode 格式复制到剪贴板，用于像 https://lemmasoft.renai.us/ 这样的论坛。"
+
+    old "Open"
+    new "复制 Markdown"
+
+    old "Opens the traceback.txt file in a text editor."
+    new "将 traceback.txt 文件以 Markdown 格式复制到剪贴板，用于 Discord。"
+
+    old "Copy BBCode"
+    new "发生了异常。"
+
+    old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "回滚"
+
+    old "Copy Markdown"
+    new "尝试回滚到之前的时间，以便你保存或做出不同的选择。"
+
+    old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+    new "忽略"
+
+    old "An exception has occurred."
+    new "忽略该异常，允许你继续。"
+
+    old "Rollback"
+    new "忽略异常，允许您继续。这通常会导致更多错误。"
+
+    old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "重新载入"
+
+    old "Ignore"
+    new "从磁盘重新加载游戏，并尽可能保存和恢复游戏状态。"
+
+    old "Ignores the exception, allowing you to continue."
+    new "控制台"
+
+    old "Ignores the exception, allowing you to continue. This often leads to additional errors."
+    new "打开控制台以调试此问题。"
+
+    old "Reload"
+    new "退出游戏。"
+
+    old "Reloads the game from disk, saving and restoring game state if possible."
+    new "解析脚本失败。"
+
+    old "Console"
+    new "在文本编辑器中打开 errors.txt 文件。"
+
+    old "Opens a console to allow debugging the problem."
+    new "将 errors.txt 文件以 BBcode 格式复制到剪贴板，用于像 https://lemmasoft.renai.us/ 这样的论坛。"
+
+    old "Quits the game."
+    new "将 errors.txt 文件作为 Markdown 复制到剪贴板（用于 Discord）。"
+
+    old "Parsing the script failed."
+    new "按 <esc> 退出控制台。输入 help 获取帮助。\\n"
+
+    old "Opens the errors.txt file in a text editor."
+    new "已启用 Ren'Py 脚本。"
+
+    old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "Ren'Py 脚本已禁用。"
+
+    old "Copies the errors.txt file to the clipboard as Markdown for Discord."
+    new "help：显示此帮助"
+
+    old "Press <esc> to exit console. Type help for help.\\n"
+    new "命令：\\n"
+
+    old "Ren'Py script enabled."
+    new " <renpy 脚本语句>：运行该语句\\n"
+
+    old "Ren'Py script disabled."
+    new " <python 表达式或语句>：运行该表达式或语句"
+
+    old "help: show this help"
+    new "clear：清除控制台历史记录"
+
+    old "commands:\\n"
+    new "exit：退出控制台"
+
+    old " <renpy script statement>: run the statement\\n"
+    new "load <slot>：从该存档槽位载入游戏"
+
+    old " <python expression or statement>: run the expression or statement"
+    new "save <slot>：将游戏保存到指定存档"
+
+    old "clear: clear the console history"
+    new "reload：重新载入游戏，刷新脚本"
+
+    old "exit: exit the console"
+    new "watch <expression>：监视一个 python 表达式"
+
+    old "load <slot>: loads the game from slot"
+    new "unwatch <expression>：停止监视该表达式"
+
+    old "save <slot>: saves the game in slot"
+    new "unwatchall：停止监视所有表达式"
+
+    old "reload: reloads the game, refreshing the scripts"
+    new "jump <label>：跳到该标签"
+
+    old "watch <expression>: watch a python expression"
+    new "short：缩短控制台中对象的表示（默认）。"
+
+    old "unwatch <expression>: stop watching an expression"
+    new "long：在控制台打印对象的完整表示。"
+
+    old "unwatchall: stop watching all expressions"
+    new "unwatchall: stop watching all expressions"
+
+    old "jump <label>: jumps to label"
+    new "jump <label>: jumps to label"
+
+    old "short: Shorten the representation of objects on the console (default)."
+    new "short: Shorten the representation of objects on the console (default)."
+
+    old "long: Print the full representation of objects on the console."
+    new "long: Print the full representation of objects on the console."
+
