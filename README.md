@@ -2,9 +2,12 @@
 《Embraced by Autumn》的简体中文汉化补丁
 
 【适用游戏】
+  
   Embraced By Autumn (Steam 版 / 原版 1.0)
+  
   Ren'Py 引擎版本：7.4.4.1439（游戏内 script_version.txt 为 (7, 4, 4)）
-  □ 支持 Windows / macOS / Linux 各版本
+  
+  支持 Windows / macOS / Linux 各版本
 
 【手动安装步骤】
   1. 找到游戏的根目录
