@@ -1,5 +1,8 @@
 # Embraced-by-Autumn-CHS-Patch
 《Embraced by Autumn》简体中文汉化补丁
+<img width="2560" height="1600" alt="屏幕截图 2026-09-04 073451" src="https://github.com/user-attachments/assets/2fe5391c-b592-42c1-8cae-3bd4865dd554" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/2f0881b6-c1f9-4f60-807e-f16c2e728149" />
 
 【适用游戏】
   - Embraced By Autumn (Steam 版 / 原版 1.0)
